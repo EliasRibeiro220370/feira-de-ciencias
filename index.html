@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quiz de Ciência</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Feira de Ciências C.E.Prof.D.R</h1>
+      <h1>Quiz de Ciências</h1>
+      <div class="quiz-box">
+        <p id="question"></p>
+        <ul id="answers"></ul>
+        <p id="timer">Tempo: 60s</p>
+      </div>
+      <button id="start-btn">Iniciar Quiz</button>
+      <p id="score"></p>
+    </div>
+    <audio id="correct-sound" src="ding/aplausos.mp3"></audio>
+    <audio id="wrong-sound" src="ding/errou.mp3"></audio>
+    <audio id="bg-music" src="ding/fundo.mp3" loop></audio>
+    <footer id="footer">
+      <p>
+        © 2025 Feira de Ciências C.E.Prof.D.R – Quiz Desafio da Ciência. Todos os direitos
+        reservados. Criado por Elias Ribeiro.
+      </p>
+    </footer>
+    <script src="script.js"></script>
+  </body>
+</html>
