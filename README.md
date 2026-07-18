@@ -18,7 +18,7 @@ Aplicação interativa de Quiz desenvolvida de forma real para a Feira de Ciênc
 
 ---
 
-## 💻 Como Rodar o Projeto Localmente
+## 🚀 Tecnologias Utilizadas
 
 Por ser um projeto construído com tecnologias web nativas, você não precisa instalar nenhuma dependência do Node.js. Escolha um dos métodos simples abaixo:
 
