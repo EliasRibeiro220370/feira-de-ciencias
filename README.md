@@ -39,5 +39,5 @@ Aplicação interativa de Quiz desenvolvida de forma real para a Feira de Ciênc
 ---
 
 <h1 align="center">
-🚀 AgencyFlow
+ Quiz Feira de Ciências 2025 🔬
 </h1>
