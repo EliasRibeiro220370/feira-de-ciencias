@@ -3,7 +3,13 @@
 Aplicação interativa de Quiz desenvolvida de forma real para a Feira de Ciências de 2025 do **Colégio Estadual Darci Ribeiro** (Maricá - RJ). O projeto foi utilizado ativamente pelos alunos e visitantes para testar conhecimentos científicos de forma dinâmica, lúdica e engajadora.
 
 <p align="center">
-[🌐 Demonstração](https://agency-flow-seven.vercel.app) 
+  <a href="https://SEU-LINK-DA-VERCEL.vercel.app" target="_blank">
+    🌐 Demonstração
+  </a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/EliasRibeiro220370/AgencyFlow" target="_blank">
+    📂 Código Fonte
+  </a>
 </p>
 
 ## ⚙️ Funcionalidades
