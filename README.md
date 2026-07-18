@@ -6,10 +6,6 @@ Aplicação interativa de Quiz desenvolvida de forma real para a Feira de Ciênc
   <a href="https://SEU-LINK-DA-VERCEL.vercel.app" target="_blank">
     🌐 Demonstração
   </a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://github.com/EliasRibeiro220370/AgencyFlow" target="_blank">
-    📂 Código Fonte
-  </a>
 </p>
 
 ## ⚙️ Funcionalidades
