@@ -4,8 +4,7 @@ Aplicação interativa de Quiz desenvolvida de forma real para a Feira de Ciênc
 
 <p align="center">
 
-[🌐 Demonstração](https://agency-flow-seven.vercel.app) •
-[📂 Código Fonte](https://github.com/EliasRibeiro220370/AgencyFlow)
+[🌐 Demonstração](https://agency-flow-seven.vercel.app) 
 
 </p>
 
