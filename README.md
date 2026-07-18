@@ -2,8 +2,6 @@
 
 Aplicação interativa de Quiz desenvolvida de forma real para a Feira de Ciências de 2025 do **Colégio Estadual Darci Ribeiro** (Maricá - RJ). O projeto foi utilizado ativamente pelos alunos e visitantes para testar conhecimentos científicos de forma dinâmica, lúdica e engajadora.
 
-## 🚀 Tecnologias Utilizadas
-
 <div align="left">
   <img src="https://shields.io" alt="JavaScript" />
   <img src="https://shields.io" alt="HTML5" />
