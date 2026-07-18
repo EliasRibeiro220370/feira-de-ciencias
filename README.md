@@ -23,8 +23,20 @@ Aplicação interativa de Quiz desenvolvida de forma real para a Feira de Ciênc
 
 ## 🚀 Tecnologias Utilizadas
 
-<div align="left">
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-</div>
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="TypeScript"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="45" alt="Tailwind CSS"/>
+<img width="10"/>
+
+</p>
+---
+
+<p align="center">
+  # AgencyFlow 📈🤖
+</p>
