@@ -23,7 +23,7 @@ Aplicação interativa de Quiz desenvolvida de forma real para a Feira de Ciênc
 
 ## 🚀 Tecnologias Utilizadas
 
-<p align="left">
+<p align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5"/>
 <img width="10"/>
@@ -35,8 +35,7 @@ Aplicação interativa de Quiz desenvolvida de forma real para a Feira de Ciênc
 <img width="10"/>
 
 </p>
----
 
 <p align="center">
-  # AgencyFlow 📈🤖
+  Quiz Feira de Ciências 2025 🔬
 </p>
