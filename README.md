@@ -25,7 +25,7 @@ Aplicação interativa de Quiz desenvolvida de forma real para a Feira de Ciênc
 
 <p align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original.svg" height="45" alt="html"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5"/>
 <img width="10"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="TypeScript"/>
