@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/8ff62969-1fa2-4429-a17c-c8fbf708e952" />
+  <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/b751dcce-b882-4432-9557-b14ceafd34ee" />
 </p>
 
 # Quiz Feira de Ciências 2025 🔬
