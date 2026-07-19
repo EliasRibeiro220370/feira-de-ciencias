@@ -41,3 +41,17 @@ Aplicação interativa de Quiz desenvolvida de forma real para a Feira de Ciênc
 <h1 align="center">
  Quiz Feira de Ciências 2025 🔬
 </h1>
+
+────────────────────────────────────────
+
+        💻  Notebook
+
+       [ Quiz Interativo ]
+
+🧬      ⚛️      🧪      🌍
+
+────────────────────────────────────────
+
+Quiz Interativo
+Feira de Ciências 2025
+Colégio Estadual Darcy Ribeiro
