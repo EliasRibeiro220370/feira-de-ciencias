@@ -50,4 +50,4 @@ Aplicação interativa de Quiz desenvolvida de forma real para a Feira de Ciênc
 
 Quiz Interativo
 Feira de Ciências 2025
-Colégio Estadual Darcy Ribeiro
+Colégio Estadual Darcy Ribeiro-Maricá RJ
