@@ -44,10 +44,6 @@ Aplicação interativa de Quiz desenvolvida de forma real para a Feira de Ciênc
 
 ────────────────────────────────────────
 
-        💻  Notebook
-
-       [ Quiz Interativo ]
-
 🧬      ⚛️      🧪      🌍
 
 ────────────────────────────────────────
