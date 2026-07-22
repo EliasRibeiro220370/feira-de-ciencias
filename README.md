@@ -9,7 +9,7 @@ Aplicação interativa de Quiz desenvolvida de forma real para a Feira de Ciênc
 
 # 🌐 Projeto Original
 
-A versão original deste projeto encontra-se em operação e pode ser acessada através do link abaixo:
+Este projeto encontra-se em operação e pode ser acessada através do link abaixo:
 
 **🔗 https://oficina-pro-gules.vercel.app**
 
