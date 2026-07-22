@@ -11,7 +11,7 @@ Aplicação interativa de Quiz desenvolvida de forma real para a Feira de Ciênc
 
 Este projeto encontra-se em operação e pode ser acessada através do link abaixo:
 
-**🔗 https://oficina-pro-gules.vercel.app**
+**🔗 https://feira-de-ciencias-rho.vercel.app**
 
 ---
 
