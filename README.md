@@ -7,11 +7,13 @@
 
 Aplicação interativa de Quiz desenvolvida de forma real para a Feira de Ciências de 2025 do **Colégio Estadual Darci Ribeiro** (Maricá - RJ). O projeto foi utilizado ativamente pelos alunos e visitantes para testar conhecimentos científicos de forma dinâmica, lúdica e engajadora.
 
-🌐 Demonstração
+# 🌐 Projeto Original
 
-<p align="center">
-  <a href="https://feira-de-ciencias-rho.vercel.app" target="_blank"></a>
-</p>
+A versão original deste projeto encontra-se em operação e pode ser acessada através do link abaixo:
+
+**🔗 https://oficina-pro-gules.vercel.app**
+
+---
 
 ## ⚙️ Funcionalidades
 *   **Sistema de Pontuação:** Contagem acumulativa de acertos em tempo real.
